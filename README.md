@@ -2,6 +2,7 @@
 
 Esta será uma aplicação para facilitar e auxiliar a organização de RPG de mesa (gestão de sessões, mapas, fichas, rolagem de dados, etc)
 
+Acompanhe o andamento do projeto em: https://sharing.clickup.com/90132418848/b/h/2ky4z490-393/8c69a582daf2fb2
 ---
 
 ## 📜 AVISO LEGAL E DE DIREITOS AUTORAIS
